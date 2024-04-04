@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PDMPlugin">
+    <option name="customRuleSets">
+      <list>
+        <option value="$USER_HOME$/jee/hwtests/pmd/ruleset.xml" />
+        <option value="$USER_HOME$/jee/icd0011tests/pmd/ruleset.xml" />
+        <option value="C:\Users\kotka\IdeaProjects\icd0019\pmd-rules.xml" />
+        <option value="$PROJECT_DIR$/../icd0019material/pmd/ruleset.xml" />
+      </list>
+    </option>
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
